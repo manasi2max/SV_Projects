@@ -1,0 +1,123 @@
+timestamp=1747175017187
+
+[~A]
+LastVerilogToplevel=tb
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*8757*11380
+
+[~MFT]
+0=20|0work.mgf|11380|0
+1=12|1work.mgf|68688|0
+3=24|3work.mgf|76798|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c921657e63e06f35ddf65ca462ac57ecce131
+
+[FIFO]
+A/FIFO=22|../design.sv|1|1*374
+BinL64/FIFO=3*174
+R=../design.sv|1
+SLP=3*1148
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|a11a689b2db53c4db6c2c02897e28aaae54396d71e90ff6198c25e2077a45d05
+
+[\*queue#([]bit) \]
+A/\*queue#([]bit) \=22|||1*43439
+AICT=447276804347648
+BinL64/\*queue#([]bit) \=3*48689
+CLI=0*5760
+SLP=3*50875
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|ac315f1ee53bd5e82d18c46d474b59c486ecc9714881a909134cfbf0b9847b339d9d98e6c590eb72a797b4ecbeec1034
+
+[\std::mailbox#(transaction) \]
+A/\std::mailbox#(transaction) \=22|||1*16687
+AICT=447276804345600
+BinL64/\std::mailbox#(transaction) \=3*16387
+CLI=0*2238
+SLP=3*18180
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|1e719b6ecd2368499b5e157e46e8cd700c31c31c31c4a3840d1d4de4df34dafee17464f1a94737b4bd0b2895bf24c4986ba0514b31322dd4480b830d9a8c3b97
+
+[driver]
+A/driver=22|../testbench.sv|45|1*28562
+AICT=447276804346368
+BinL64/driver=3*29432
+CLI=0*4326
+R=../testbench.sv|45
+SLP=3*34681
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|32a8809e0c82d5e52151c5a0d1b538255583105ea571fe5aeccfae8c07e11260
+
+[environment]
+A/environment=22|../testbench.sv|195|1*56942
+AICT=447276804347904
+BinL64/environment=3*62801
+CLI=0*8023
+R=../testbench.sv|195
+SLP=3*69171
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|f86a66fa2f5cdf242cee6b26edbbfa260bdabb96e9080c0d7927e95444559653bb1ca28ed9f2ba4e1aae8cc89d32b51d
+
+[fifo_if]
+A/fifo_if=22|../design.sv|48|1*2411
+BinL64/fifo_if=3*1800
+R=../design.sv|48
+SLP=3*2010
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|bf7ee0af1eae500ddb79c9e676bda55526527262ddaa47cb266f3a3c4d9b973a3fabba0bd4cf63bc7ca57defcb765afd
+
+[generator]
+A/generator=22|../testbench.sv|17|1*20472
+AICT=447276804344832
+BinL64/generator=3*19435
+CLI=0*3263
+R=../testbench.sv|17
+SLP=3*24511
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|868a022443c89e9f5ff3df3152251b4d1393fddf47876bc361e7a33e2c7578ef1d5483ad498527b097c574fc0a87b2b7
+
+[monitor]
+A/monitor=22|../testbench.sv|107|1*36184
+AICT=447276804346880
+BinL64/monitor=3*39657
+CLI=0*5354
+R=../testbench.sv|107
+SLP=3*44270
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|95ff40020058ee65c420aa5e779914f826527262ddaa47cb266f3a3c4d9b973ab2fc71bd736eb2d0e17673538e77cb9a
+
+[scoreboard]
+A/scoreboard=22|../testbench.sv|140|1*48629
+AICT=447276804347136
+BinL64/scoreboard=3*52458
+CLI=0*6878
+R=../testbench.sv|140
+SLP=3*57626
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|cb8490c56fdb537d2557a00a58b17e11d8626a3683e7935cfb3d638038a680413a34aa827220179b2422bb3cbe8d76ea
+
+[tb]
+A/tb=22|../testbench.sv|251|1*68688
+BinL64/tb=3*75785
+R=../testbench.sv|251
+SLP=3*76798
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|8db8692708dc0985d408d2497dbc95fa6014dd1bb602363a589bfd3c1509d445
+
+[transaction]
+A/transaction=22|../testbench.sv|1|1*4202
+AICT=447276804344064
+BinL64/transaction=3*2083
+CLI=0*1703
+R=../testbench.sv|1
+SLP=3*9150
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|e7c58dcfddb8de4c8440dd51a2d497d1fcb4642d0ac36a420143c757ad4eab6a3cb5391b63e230f30fccc5103e3739eb
+
+[~U]
+$root=12|0*0|
+FIFO=12|0*390|
+\*queue#([]bit) \=12|||0x10030000
+\std::mailbox#(transaction) \=12|||0x10030000
+driver=12|0*3711||0x30000
+environment=12|0*7331||0x30000
+fifo_if=12|0*636||0x80000
+generator=12|0*2646||0x30000
+monitor=12|0*4764||0x30000
+scoreboard=12|0*6243||0x30000
+tb=12|0*8590||0x10
+transaction=12|0*939||0x30000
