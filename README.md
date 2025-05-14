@@ -26,6 +26,7 @@ You can simulate each project using:
   Click on 'Open EPWave after run' to view the waveforms
 
 ## Folder Structure for Repo
+```
 SV_Projects/
 ├── README.md                   # Top-level overview
 ├── assets/                     # Central folder for all simulation images (add images later)
@@ -53,4 +54,6 @@ SV_Projects/
     ├── axi4_lite.sv
     ├── axi4_lite_tb.sv
     └── README.md
+```
+
 
