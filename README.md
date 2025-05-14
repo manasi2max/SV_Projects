@@ -29,7 +29,7 @@ You can simulate each project using:
 ```
 SV_Projects/
 ├── README.md                   # Top-level overview
-├── assets/                     # Central folder for all simulation images (add images later)
+├── assets/                     # Central folder for all simulation images 
 ├── DFF/
 │   ├── dff.sv
 │   ├── dff_tb.sv
